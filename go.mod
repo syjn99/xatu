@@ -1,6 +1,7 @@
 module github.com/ethpandaops/xatu
 
 go 1.22.0
+// test
 
 replace github.com/probe-lab/hermes => github.com/ethpandaops/hermes v0.0.0-20240527060557-ae23464cdc41
 
